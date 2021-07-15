@@ -6,6 +6,7 @@
     },
     {
         "link": "https://twitter.com/zerostaticio",
-        "image": "/images/social/twitter.svg"
+        "image": "/images/social/twitter.svg",
+        "name": "twitter"
     }
 ]
