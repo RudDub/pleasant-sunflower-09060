@@ -29,7 +29,9 @@ Los anuncios de Google Ads ayudan a que puedas llegar a las personas que buscan 
 
 *   **Análisis y medición**    : "Lo que no se puede medir, no se puede mejorar"
 
-Medir y saber exactamente si tu inversión te está generando ROI (RETORNO) es uno los retos mas importantes. Puedes saber que Keywords, anuncios y campañas son las que te están generando mayor retorno y cuales no estan funcionando. Permitiéndo así optimizar las campañas constantemente y obtener mejores resultados con el paso del tiempo.
+Medir y saber exactamente si tu inversión te está generando ROI (RETORNO) es uno los retos mas importantes. 
+
+Puedes saber que Keywords, anuncios y campañas son las que te están generando mayor retorno y cuales no estan funcionando. Permitiéndo así optimizar las campañas constantemente y obtener mejores resultados con el paso del tiempo.
 
 *   **Pago Por Clic**
 
