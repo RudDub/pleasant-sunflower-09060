@@ -20,6 +20,7 @@
         "meta_twitter_creator": "@zerostaticio"
     },
     "footer": {
-        "copyright_text": "Instagram"
+        "copyright_text": "Instagram",
+        "copyright_link": "https://www.instagram.com/rud_dub/?hl=en"
     }
 }
