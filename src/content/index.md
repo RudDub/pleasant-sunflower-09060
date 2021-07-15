@@ -4,7 +4,9 @@ intro_image: /images/illustrations/pointing.svg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
-¿Who I Am?
+# ¿Who I Am?
+
+
 \-Growth Marketing 🚀 specialized in Social Media (Strategy-Planner).
 
 \-Focused on (Inbound-Outbound).
