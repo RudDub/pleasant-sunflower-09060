@@ -5,46 +5,38 @@ featured: true
 draft: false
 weight: 3
 ---
+Uso de software que realice acciones de marketing de forma automatizada. Gracias a ello, una empresa puede realizar procesos que de manera natural serían dificultosos, con el fin de ser mas eficiente y tener un mayor control y seguimiento sobre los mismos
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+### **Proceso del Marketing Automation**
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+**1 CAPTACIÓN**
 
-## Geniti facinus praeruptam atris ab manus in
+Es el momento en que un cliente potencial ingresa a nuestro sitio web y es captado, es un proceso básico en la implementación de una estrategia de Marketing una vez el lead entra empieza un flujo de acciones.
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+**2 NUTRICIÓN**
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+Esta etapa esta enfocada en nutrir al usuario mediante distintos tipos de contenidos que son segmentados y dependiendo las reaccion que realicen con estos.
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+**3 PROSPECCIÓN**
 
-## Vidit si probetne vertitur
+Esta etapa se basa en darle un puntaje a los usuarios que reaccionan a los contenidos enviados. Dependiendo su nivel de interaccion se establece un puntaje, a mayor puntuación, mayor probabilidad de intención de compra.
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+**4 CONVERSIÓN**
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
+Es la etapa final de todo funnel, por lo consiguiente una estrategia de marketing automatizado tendrá como objetivo final la acción de compra.
 
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+### **Beneficios del marketing automation**
+
+Cada vez vemos como las empresas se unen a la automatización de sus actividades de marketing y ventas.
+
+Lo que buscan estas empresas es mejorar los tiempos de respuesta y atención a sus clientes como obtener de manera automatizada oportunidades de venta.
+
+**-Ahorrar Tiempo.**
+**-Menos margen de error.**
+**-Control sobre los datos.**
+**-Leads mejores cualificados.**
+**-Segmentación de clientes para llegar mejor al público potencial.**
+**-Se reducen los costos por adquisición por cliente.**
+
+****
+La automatización es cada vez más importante, y las empresas no deben ignorarlo.
