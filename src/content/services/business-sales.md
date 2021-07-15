@@ -7,7 +7,7 @@ weight: 3
 ---
 Uso de software que realice acciones de marketing de forma automatizada. Gracias a ello, una empresa puede realizar procesos que de manera natural serían dificultosos, con el fin de ser mas eficiente y tener un mayor control y seguimiento sobre los mismos
 
-### **Proceso del Marketing Automation**
+## **Proceso del Marketing Automation**
 
 **1 CAPTACIÓN**
 
@@ -33,15 +33,15 @@ Lo que buscan estas empresas es mejorar los tiempos de respuesta y atención a s
 
 **-Ahorrar Tiempo.**
 
-**-Menos margen de error.**
+**-Menos margen de error.**
 
-**-Control sobre los datos.**
+**-Control sobre los datos.**
 
-**-Leads mejores cualificados.**
+**-Leads mejores cualificados.**
 
-**-Segmentación de clientes para llegar mejor al público potencial.**
+**-Segmentación de clientes para llegar mejor al público potencial.**
 
-**-Se reducen los costos por adquisición por cliente.**
+**-Se reducen los costos por adquisición por cliente.**
 
 ***
 
