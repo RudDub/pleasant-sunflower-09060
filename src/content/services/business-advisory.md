@@ -25,6 +25,6 @@ Esta metodología esta enfocada en entender a tus prospectos y entregar el conte
 
 ### **Beneficios del Inbound Marketing**
 
-** - **El presupuesto que se necesita es relativamente bajo para empresas pequeñas, esto revela una gran oportunidad para que las empresas desarrollen un marketing mas eficiente adoptando las practicas de inbound marketing
+\-El presupuesto que se necesita es relativamente bajo para empresas pequeñas, esto revela una gran oportunidad para que las empresas desarrollen un marketing mas eficiente adoptando las practicas de inbound marketing
 
 **-** El incremento en el costo por clic (CPC) en las plataformas de publicidad online están conduciendo a las compañías a pensar en acciones de marketing online que garanticen mejor (ROI)
