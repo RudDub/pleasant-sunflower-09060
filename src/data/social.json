@@ -2,5 +2,9 @@
     {
         "name": "Instagram",
         "link": "https://www.instagram.com/rud_dub/?hl=en"
+    },
+    {
+        "name": "lorem-ipsum",
+        "link": "lorem-ipsum"
     }
 ]
