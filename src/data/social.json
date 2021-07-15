@@ -3,5 +3,9 @@
         "name": "Github",
         "link": "https://github.com/zerostaticthemes/gatsby-serif-theme",
         "image": "/images/social/github.svg"
+    },
+    {
+        "name": "lorem-ipsum",
+        "link": "lorem-ipsum"
     }
 ]
