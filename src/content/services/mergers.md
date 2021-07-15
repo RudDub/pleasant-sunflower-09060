@@ -29,7 +29,7 @@ Los anuncios de Google Ads ayudan a que puedas llegar a las personas que buscan 
 
 *   **Análisis y medición**    : "Lo que no se puede medir, no se puede mejorar"
 
-Medir y saber exactamente si tu inversión te está generando ROI (RETORNO) es uno los retos mas importantes. 
+Medir y saber exactamente si tu inversión te está generando ROI (RETORNO) es uno los retos mas importantes.
 
 Puedes saber que Keywords, anuncios y campañas son las que te están generando mayor retorno y cuales no estan funcionando. Permitiéndo así optimizar las campañas constantemente y obtener mejores resultados con el paso del tiempo.
 
@@ -43,4 +43,4 @@ Con Google Ads hay otra ventaja y es que puedes hacer que tus anuncios sean rele
 
 *   **Rapidez**
 
-Con Google Ads puedes obtener tus primeros visitantes o compradores en cuestión de horas. Puedes crear tus campañas y anuncios para que tus prospectos puedan visualizarlos rápidamente sin necesidad de esperar días o un sin número de procesos.
+Con Google Ads puedes obtener tus primeros visitantes o compradores en cuestión de horas. Puedes crear tus campañas y anuncios para que tus prospectos puedan visualizarlos rápidamente sin necesidad de esperar días o un sin número de procesos.![](https://lh5.googleusercontent.com/xCV52YwBYIKU6wiq-T74eG_QvaLP0iY4-q9pOzOFhNPiXK8Yj8uK5Tw95ITbHcgaMR-r-C7TBwptlzHdxqV1hn-3bM2t1WwGb\_6ZaoCLtsdHHxBHQZ\_8SVekHtBEj_WG1oG7B6Gb4COk9xamrw)![](https://blogs.upc.edu.pe/sites/default/files/upc/blogs/lista_blogs/blog_de_administracion_y_marketing/blog_post/2017/agosto/blogpost_imagen_principal/proceso-remarketing1.png)![](https://www.datafeedwatch.com/hs-fs/hubfs/academy/google-shopping-red-shoes.png?width=700\&name=google-shopping-red-shoes.png)![](https://www.uncommunitymanager.es/wp-content/uploads/seo_google_youtube.jpg)![](https://www.ingeniovirtual.com/wp-content/uploads/que-es-sem-o-marketing-en-buscadores.jpg)
