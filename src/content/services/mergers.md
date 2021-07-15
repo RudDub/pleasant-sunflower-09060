@@ -15,15 +15,15 @@ Los anuncios de Google Ads ayudan a que puedas llegar a las personas que buscan 
 
 ### **1). CAMPAÑAS PUBLICITARIAS SEGÚN OBJETIVOS**
 
-**RED DE BUSQUEDA:** Es una de las formas más rápida para aparecer en los resultados de búsqueda de Google y aumentar el trafico a tu sitio web.
+**RED DE BUSQUEDA:** Es una de las formas más rápida para aparecer en los resultados de búsqueda de Google y aumentar el trafico a tu sitio web.![](https://lh5.googleusercontent.com/xCV52YwBYIKU6wiq-T74eG_QvaLP0iY4-q9pOzOFhNPiXK8Yj8uK5Tw95ITbHcgaMR-r-C7TBwptlzHdxqV1hn-3bM2t1WwGb\_6ZaoCLtsdHHxBHQZ\_8SVekHtBEj_WG1oG7B6Gb4COk9xamrw)
 
-**RED DE DISPLAY:** Muestra tus anuncios en sitios web o aplicaciones que usa tu público objetivo para encaminar a tu sitio web.
+**RED DE DISPLAY:** Muestra tus anuncios en sitios web o aplicaciones que usa tu público objetivo para encaminar a tu sitio web.![](https://www.ingeniovirtual.com/wp-content/uploads/que-es-sem-o-marketing-en-buscadores.jpg)
 
-**RED DE VIDEO:** Muestra tus anuncios en YouTube a personas que cumplen con características de tu público objetivo.
+**RED DE VIDEO:** Muestra tus anuncios en YouTube a personas que cumplen con características de tu público objetivo.![](https://www.uncommunitymanager.es/wp-content/uploads/seo_google_youtube.jpg)
 
-**RED SHOPPING:** Este tipo de publicidad es vital para plataformas e-commerce para aumentar las ventas online de tus productos.
+**RED SHOPPING:** Este tipo de publicidad es vital para plataformas e-commerce para aumentar las ventas online de tus productos.![](https://www.datafeedwatch.com/hs-fs/hubfs/academy/google-shopping-red-shoes.png?width=700\&name=google-shopping-red-shoes.png)
 
-**REMARKETING:** Se enfoca en hacerle seguimiento a usuarios que ya tienen interes en tus productos o servicios.
+**REMARKETING:** Se enfoca en hacerle seguimiento a usuarios que ya tienen interes en tus productos o servicios.![](https://blogs.upc.edu.pe/sites/default/files/upc/blogs/lista_blogs/blog_de_administracion_y_marketing/blog_post/2017/agosto/blogpost_imagen_principal/proceso-remarketing1.png)
 
 #### **BENEFICIOS DE LA PUBLICIDAD EN GOOGLE:**
 
@@ -43,4 +43,4 @@ Con Google Ads hay otra ventaja y es que puedes hacer que tus anuncios sean rele
 
 *   **Rapidez**
 
-Con Google Ads puedes obtener tus primeros visitantes o compradores en cuestión de horas. Puedes crear tus campañas y anuncios para que tus prospectos puedan visualizarlos rápidamente sin necesidad de esperar días o un sin número de procesos.![](https://lh5.googleusercontent.com/xCV52YwBYIKU6wiq-T74eG_QvaLP0iY4-q9pOzOFhNPiXK8Yj8uK5Tw95ITbHcgaMR-r-C7TBwptlzHdxqV1hn-3bM2t1WwGb\_6ZaoCLtsdHHxBHQZ\_8SVekHtBEj_WG1oG7B6Gb4COk9xamrw)![](https://blogs.upc.edu.pe/sites/default/files/upc/blogs/lista_blogs/blog_de_administracion_y_marketing/blog_post/2017/agosto/blogpost_imagen_principal/proceso-remarketing1.png)![](https://www.datafeedwatch.com/hs-fs/hubfs/academy/google-shopping-red-shoes.png?width=700\&name=google-shopping-red-shoes.png)![](https://www.uncommunitymanager.es/wp-content/uploads/seo_google_youtube.jpg)![](https://www.ingeniovirtual.com/wp-content/uploads/que-es-sem-o-marketing-en-buscadores.jpg)
+Con Google Ads puedes obtener tus primeros visitantes o compradores en cuestión de horas. Puedes crear tus campañas y anuncios para que tus prospectos puedan visualizarlos rápidamente sin necesidad de esperar días o un sin número de procesos.
